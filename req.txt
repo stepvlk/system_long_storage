@@ -1,0 +1,6 @@
+Flask
+prometheus-flask-exporter
+flask_cors
+requests
+gunicorn
+pymongo
